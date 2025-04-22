@@ -1,4 +1,4 @@
-Project Overview: Public Transport Career Management System
+Public Transport Career Management System
 The goal of this project is to create a public transport career management system, enabling the definition and querying of stations (stops), routes, and connections between stops. The system interacts with the user through commands, each having a specific number of arguments based on the operation being executed.
 
 Key Features of the Project:
